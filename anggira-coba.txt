@@ -1,6 +1,6 @@
 Hello Test
 - Makan
 - Minum
-- Mandi
 - Tidur
 - Belajar
+- Bermain
