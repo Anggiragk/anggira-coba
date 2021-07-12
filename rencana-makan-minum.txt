@@ -1,10 +1,10 @@
 Makan
-- Nasi
+- Nasi Goreng
 - Ayam
 - Burger
 
 
 Minum
-- Es
+- Es Cream
 - Sirup
 - Tea
