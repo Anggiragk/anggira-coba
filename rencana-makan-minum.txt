@@ -1,6 +1,9 @@
 Makan
 - Nasi
+- Ayam
+- Burger
 
 
 Minum
 - Es
+- Sirup
