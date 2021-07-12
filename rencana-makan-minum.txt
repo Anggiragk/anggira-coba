@@ -7,3 +7,4 @@ Makan
 Minum
 - Es
 - Sirup
+- Tea
